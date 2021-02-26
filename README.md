@@ -6,7 +6,7 @@
 
 </div>
 
-<br><br>
+<br>
 
 ## Favorite Tech
 
