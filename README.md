@@ -48,6 +48,18 @@
                 <br>Node.js
             </a>
         </td>
+        <td align="center" width="96">
+            <a href="https://kubernetes.io/">
+                <img src="media/logos/kubernetes.svg" width="48" height="48" alt="Kubernetes">
+                <br>Kubernetes
+            </a>
+        </td>
+        <td align="center" width="96">
+            <a href="https://www.ansible.com/">
+                <img src="media/logos/ansible.svg" width="48" height="48" alt="Ansible">
+                <br>Ansible®
+            </a>
+        </td>
     </tr>
 </table>
 
