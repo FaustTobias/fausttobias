@@ -54,8 +54,6 @@
                 <br>Node.js
             </a>
         </td>
-    </tr>
-    <tr>
         <td align="center" width="96">
             <a href="https://kubernetes.io/">
                 <img src="media/logos/kubernetes.svg" height="48" alt="Kubernetes">
