@@ -14,56 +14,47 @@
     <tr>
         <td align="center" width="96">
             <a href="https://en.wikipedia.org/wiki/C++">
-                <img src="media/logos/cpp.svg" height="48" alt="C++">
-                <br>C++
+                <img src="media/logos/cpp.svg" height="48" alt="C++"><br>C++
             </a>
         </td>
         <td align="center" width="96">
             <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)">
-                <img src="media/logos/csharp.svg" height="48" alt="C#">
-                <br>C#
+                <img src="media/logos/csharp.svg" height="48" alt="C#"><br>C#
             </a>
         </td>
         <td align="center" width="96">
             <a href="https://www.typescriptlang.org/">
-                <img src="media/logos/typescript.svg" height="48" alt="TypeScript">
-                <br>TypeScript
+                <img src="media/logos/typescript.svg" height="48" alt="TypeScript"><br>TypeScript
             </a>
         </td>
         <td align="center" width="96">
             <a href="https://en.wikipedia.org/wiki/JavaScript">
-                <img src="media/logos/javascript.svg" height="48" alt="JavaScript">
-                <br>JavaScript
+                <img src="media/logos/javascript.svg" height="48" alt="JavaScript"><br>JavaScript
             </a>
         </td>
         <td align="center" width="96">
             <a href="https://sass-lang.com/">
-                <img src="media/logos/sass.png" height="48" alt="Sass">
-                <br>Sass
+                <img src="media/logos/sass.png" height="48" alt="Sass"><br>Sass
             </a>
         </td>
         <td align="center" width="96">
             <a href="https://deno.land/">
-                <img src="media/logos/deno.svg" height="48" alt="Deno">
-                <br>Deno
+                <img src="media/logos/deno.svg" height="48" alt="Deno"><br>Deno
             </a>
         </td>
         <td align="center" width="96">
             <a href="https://nodejs.org/">
-                <img src="media/logos/nodejs.png" height="48" alt="Node.js">
-                <br>Node.js
+                <img src="media/logos/nodejs.png" height="48" alt="Node.js"><br>Node.js
             </a>
         </td>
         <td align="center" width="96">
             <a href="https://kubernetes.io/">
-                <img src="media/logos/kubernetes.svg" height="48" alt="Kubernetes">
-                <br>Kubernetes
+                <img src="media/logos/kubernetes.svg" height="48" alt="Kubernetes"><br>Kubernetes
             </a>
         </td>
         <td align="center" width="96">
             <a href="https://www.ansible.com/">
-                <img src="media/logos/ansible.svg" height="48" alt="Ansible">
-                <br>Ansible®
+                <img src="media/logos/ansible.svg" height="48" alt="Ansible"><br>Ansible®
             </a>
         </td>
     </tr>
