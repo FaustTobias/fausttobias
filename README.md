@@ -43,7 +43,7 @@
             </a>
         </td>
         <td align="center" width="96">
-            <a href="https://en.wikipedia.org/wiki/JavaScript">
+            <a href="https://deno.land/">
                 <img src="media/logos/deno.svg" height="48" alt="Deno">
                 <br>Deno
             </a>
