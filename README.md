@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi there! I'm Tobias
+# :koala: Beep Boop! I'm Tobias
 
 ### I'm a full-stack developer with a special interest for automation
 
