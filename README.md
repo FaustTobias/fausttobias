@@ -6,6 +6,8 @@
 
 </div>
 
+<br><br>
+
 ## Favorite Tech
 
 > Stuff I used over the years that I really like (in no particular order)
