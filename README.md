@@ -1,6 +1,8 @@
 <div align="center">
 
-# Hi there 👋
+# 👋 Hi there! I'm Tobias
+
+### I'm a full-stack developer with a special interest for automation
 
 </div>
 
