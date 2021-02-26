@@ -37,6 +37,12 @@
             </a>
         </td>
         <td align="center" width="96">
+            <a href="https://sass-lang.com/">
+                <img src="media/logos/sass.png" width="48" height="48" alt="Sass">
+                <br>Sass
+            </a>
+        </td>
+        <td align="center" width="96">
             <a href="https://en.wikipedia.org/wiki/JavaScript">
                 <img src="media/logos/deno.svg" width="48" height="48" alt="Deno">
                 <br>Deno
@@ -48,6 +54,8 @@
                 <br>Node.js
             </a>
         </td>
+    </tr>
+    <tr>
         <td align="center" width="96">
             <a href="https://kubernetes.io/">
                 <img src="media/logos/kubernetes.svg" width="48" height="48" alt="Kubernetes">
