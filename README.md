@@ -36,7 +36,7 @@
         </td>
         <td align="center" width="96">
             <a href="https://sass-lang.com/">
-                <img src="media/logos/sass.png" width="48" height="48" alt="Sass"><br>Sass
+                <img src="media/logos/sass.svg" width="48" height="48" alt="Sass"><br>Sass
             </a>
         </td>
         <td align="center" width="96">
@@ -46,7 +46,7 @@
         </td>
         <td align="center" width="96">
             <a href="https://nodejs.org/">
-                <img src="media/logos/nodejs.png" width="48" height="48" alt="Node.js"><br>Node.js
+                <img src="media/logos/nodejs.svg" width="48" height="48" alt="Node.js"><br>Node.js
             </a>
         </td>
         <td align="center" width="96">
