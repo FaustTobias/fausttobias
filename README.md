@@ -40,6 +40,11 @@
             </a>
         </td>
         <td align="center" width="96">
+            <a href="https://www.php.net/">
+                <img src="media/logos/php.svg" height="48" alt="PHP"><br>PHP
+            </a>
+        </td>
+        <td align="center" width="96">
             <a href="https://deno.land/">
                 <img src="media/logos/deno.svg" height="48" alt="Deno"><br>Deno
             </a>
@@ -47,6 +52,33 @@
         <td align="center" width="96">
             <a href="https://nodejs.org/">
                 <img src="media/logos/nodejs.svg" width="48" height="48" alt="Node.js"><br>Node.js
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="96">
+            <a href="https://github.com/features/actions">
+                <img src="media/logos/github-actions.svg" height="48" alt="GitHub Actions"><br>GitHub Actions
+            </a>
+        </td>
+        <td align="center" width="96">
+            <a href="https://www.jenkins.io/">
+                <img src="media/logos/jenkins.svg" height="48" alt="Jenkins"><br>Jenkins
+            </a>
+        </td>
+        <td align="center" width="96">
+            <a href="https://svelte.dev/">
+                <img src="media/logos/svelte.svg" height="48" alt="Svelte"><br>Svelte
+            </a>
+        </td>
+        <td align="center" width="96">
+            <a href="https://reactjs.org/">
+                <img src="media/logos/react.svg" height="48" alt="React"><br>React
+            </a>
+        </td>
+        <td align="center" width="96">
+            <a href="https://vuejs.org/">
+                <img src="media/logos/vue.svg" width="48" height="48" alt="Vue.js"><br>Vue.js
             </a>
         </td>
         <td align="center" width="96">
@@ -57,6 +89,18 @@
         <td align="center" width="96">
             <a href="https://www.ansible.com/">
                 <img src="media/logos/ansible.svg" height="48" alt="Ansible"><br>Ansible®
+            </a>
+        </td>
+        <td align="center" width="96">
+            <a href="https://mochajs.org/">
+                <img src="media/logos/mocha.svg" width="48" height="48" alt="Mocha"><br>Mocha
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center" width="96">
+            <a href="https://jestjs.io/">
+                <img src="media/logos/jest.svg" width="48" height="48" alt="Jest"><br>Jest
             </a>
         </td>
     </tr>
