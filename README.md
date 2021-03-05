@@ -54,13 +54,13 @@
                 <img src="media/logos/nodejs.svg" width="48" height="48" alt="Node.js"><br>Node.js
             </a>
         </td>
-    </tr>
-    <tr>
         <td align="center" width="96">
             <a href="https://github.com/features/actions">
                 <img src="media/logos/github-actions.svg" height="48" alt="GitHub Actions"><br>GitHub Actions
             </a>
         </td>
+    </tr>
+    <tr>
         <td align="center" width="96">
             <a href="https://www.jenkins.io/">
                 <img src="media/logos/jenkins.svg" height="48" alt="Jenkins"><br>Jenkins
@@ -96,8 +96,6 @@
                 <img src="media/logos/mocha.svg" width="48" height="48" alt="Mocha"><br>Mocha
             </a>
         </td>
-    </tr>
-    <tr>
         <td align="center" width="96">
             <a href="https://jestjs.io/">
                 <img src="media/logos/jest.svg" width="48" height="48" alt="Jest"><br>Jest
