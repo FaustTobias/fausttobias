@@ -56,7 +56,7 @@
         </td>
         <td align="center" width="96">
             <a href="https://github.com/features/actions">
-                <img src="media/logos/github-actions.svg" height="48" alt="GitHub Actions"><br>GitHub Actions
+                <img src="media/logos/github-actions.svg" height="48" alt="GitHub Actions"><br>Actions
             </a>
         </td>
     </tr>
